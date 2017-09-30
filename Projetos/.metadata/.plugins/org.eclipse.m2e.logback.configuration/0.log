@@ -1,0 +1,735 @@
+2016-02-16 21:03:20,721 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: lojavirtual-web:lojavirtual-web:0.0.1-SNAPSHOT @ D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\lojavirtual-web\pom.xml.
+2016-02-16 21:03:26,406 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /lojavirtual-web/src
+2016-02-16 21:03:26,407 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /lojavirtual-web/src/test/java because it overlaps with /lojavirtual-web/src
+2016-02-16 21:03:28,255 [Worker-13] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 13 sec
+2016-02-16 21:03:29,827 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-16 21:03:29,829 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\lojavirtual-web\src\main\resources
+2016-02-16 21:03:29,832 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-16 21:03:29,833 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\lojavirtual-web\src\test\resources
+2016-02-16 21:43:39,210 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-16 21:43:39,223 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\lojavirtual-web\src\main\resources
+2016-02-16 21:43:39,224 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-16 21:43:39,225 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\lojavirtual-web\src\test\resources
+2016-02-16 21:44:36,813 [Worker-33] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: lojavirtual-web:lojavirtual-web:0.0.1-SNAPSHOT @ D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\pom.xml.
+2016-02-16 21:44:41,602 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-16 21:44:41,603 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-16 21:44:41,604 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-16 21:44:41,605 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-16 21:44:43,090 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-16 21:44:43,091 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-16 21:44:43,092 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-16 21:44:43,093 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-16 21:44:58,056 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: rest-web:rest-web:0.0.1-SNAPSHOT @ D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\pom.xml.
+2016-02-16 21:44:59,944 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-16 21:44:59,944 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-16 21:44:59,946 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-16 21:44:59,947 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-16 21:44:59,947 [Worker-30] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of rest-web
+2016-02-16 21:44:59,948 [Worker-30] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for rest-web
+2016-02-16 21:44:59,956 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-clean-plugin:jar:2.5 is missing, no dependency information available
+2016-02-16 21:44:59,964 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-16 21:45:20,101 [Worker-30] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-02-16 21:45:20,608 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: rest-web:rest-web:0.0.1-SNAPSHOT @ D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\pom.xml.
+2016-02-16 21:45:22,290 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /rest-web/src
+2016-02-16 21:45:22,291 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /rest-web/src/test/java because it overlaps with /rest-web/src
+2016-02-16 21:45:22,943 [Worker-30] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for rest-web
+2016-02-16 21:45:22,957 [Worker-30] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2016-02-16 21:45:23,608 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-16 21:45:23,609 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-16 21:45:23,611 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-16 21:45:23,612 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-16 21:45:23,612 [Worker-33] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of rest-web
+2016-02-16 21:45:23,612 [Worker-33] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for rest-web
+2016-02-16 21:45:23,616 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-16 21:47:25,552 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-16 21:47:25,562 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-16 21:47:25,564 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-16 21:47:25,565 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-16 21:47:35,822 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-16 21:47:35,823 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-16 21:47:35,824 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-16 21:47:35,825 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-16 21:48:23,277 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-16 21:48:23,278 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-16 21:48:23,279 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-16 21:48:23,279 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-16 21:49:04,381 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-16 21:49:04,381 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-16 21:49:04,382 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-16 21:49:04,383 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-16 21:49:06,453 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-16 21:49:06,454 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-16 21:49:06,455 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-16 21:49:06,456 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-16 21:50:40,345 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-16 21:50:40,347 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-16 21:50:40,348 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-16 21:50:40,349 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-16 21:51:22,480 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-16 21:51:22,481 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-16 21:51:22,482 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-16 21:51:22,483 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-16 21:51:37,286 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-16 21:51:37,287 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-16 21:51:37,288 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-16 21:51:37,288 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-16 21:51:55,132 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-16 21:51:55,133 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-16 21:51:55,134 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-16 21:51:55,135 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-16 21:52:04,604 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-16 21:52:04,604 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-16 21:52:04,606 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-16 21:52:04,606 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-16 21:52:49,192 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-16 21:52:49,193 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-16 21:52:49,194 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-16 21:52:49,194 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-16 21:52:59,938 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-16 21:52:59,939 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-16 21:52:59,940 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-16 21:52:59,941 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-16 21:59:49,800 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-16 21:59:49,801 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-16 21:59:49,802 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-16 21:59:49,803 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-16 22:00:42,048 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-16 22:00:42,049 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-16 22:00:42,050 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-16 22:00:42,051 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-16 22:01:38,159 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-16 22:01:38,159 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-16 22:01:38,161 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-16 22:01:38,162 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-16 22:01:40,762 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-16 22:01:40,763 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-16 22:01:40,764 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-16 22:01:40,764 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-16 22:01:49,613 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-16 22:01:49,614 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-16 22:01:49,615 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-16 22:01:49,616 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-16 22:07:53,539 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-16 22:07:53,540 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-16 22:07:53,541 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-16 22:07:53,541 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-16 22:08:15,381 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-16 22:08:15,381 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-16 22:08:15,383 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-16 22:08:15,383 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-16 22:09:22,036 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-16 22:09:22,037 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-16 22:09:22,038 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-16 22:09:22,039 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-16 22:10:30,626 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-16 22:10:30,626 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-16 22:10:30,627 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-16 22:10:30,628 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-16 22:10:55,908 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-16 22:10:55,909 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-16 22:10:55,910 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-16 22:10:55,911 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-16 22:11:15,399 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-16 22:11:15,400 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-16 22:11:15,401 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-16 22:11:15,402 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-16 22:13:54,981 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-16 22:13:54,981 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-16 22:13:54,982 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-16 22:13:54,983 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-16 22:16:26,549 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-16 22:16:26,549 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-16 22:16:26,550 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-16 22:16:26,551 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-16 22:17:23,168 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-16 22:17:23,169 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-16 22:17:23,170 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-16 22:17:23,170 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-16 22:17:30,194 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-16 22:17:30,195 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-16 22:17:30,196 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-16 22:17:30,196 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-16 22:17:59,054 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-16 22:17:59,055 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-16 22:17:59,056 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-16 22:17:59,056 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-16 22:18:27,841 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-16 22:18:27,842 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-16 22:18:27,843 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-16 22:18:27,844 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-16 22:18:30,109 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-16 22:18:30,109 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-16 22:18:30,110 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-16 22:18:30,111 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-16 22:18:35,830 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-16 22:18:35,831 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-16 22:18:35,832 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-16 22:18:35,833 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-20 18:51:16,459 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-20 18:51:16,475 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-20 18:51:16,477 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-20 18:51:16,478 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-20 18:52:57,057 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-20 18:52:57,058 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-20 18:52:57,059 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-20 18:52:57,060 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-20 18:53:06,135 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-20 18:53:06,136 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-20 18:53:06,137 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-20 18:53:06,138 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-20 18:53:37,247 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-20 18:53:37,248 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-20 18:53:37,249 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-20 18:53:37,250 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-20 18:55:35,530 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-20 18:55:35,531 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-20 18:55:35,533 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-20 18:55:35,534 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-20 18:59:21,345 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-20 18:59:21,346 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-20 18:59:21,347 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-20 18:59:21,347 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-20 19:01:46,913 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-20 19:01:46,914 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-20 19:01:46,915 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-20 19:01:46,915 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 07:57:31,392 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 07:57:31,441 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 07:57:31,443 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 07:57:31,444 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 08:14:57,736 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/ws/rs/javax.ws.rs-api/2.0.1/javax.ws.rs-api-2.0.1-sources.jar
+2016-02-21 08:14:58,842 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/ws/rs/javax.ws.rs-api/2.0.1/javax.ws.rs-api-2.0.1-sources.jar
+2016-02-21 08:14:59,484 [Worker-20] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for javax.ws.rs:javax.ws.rs-api:2.0.1
+2016-02-21 08:14:59,877 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 08:14:59,898 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 08:14:59,900 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 08:14:59,900 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 08:21:35,718 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 08:21:35,719 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 08:21:35,721 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 08:21:35,733 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 08:25:00,519 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 08:25:00,520 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 08:25:00,522 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 08:25:00,523 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 08:25:34,676 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 08:25:34,677 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 08:25:34,678 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 08:25:34,679 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 08:25:40,243 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 08:25:40,244 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 08:25:40,246 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 08:25:40,247 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 08:26:32,841 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 08:26:32,847 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 08:26:32,848 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 08:26:32,849 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 08:26:48,629 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 08:26:48,629 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 08:26:48,630 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 08:26:48,631 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 08:27:22,160 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 08:27:22,161 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 08:27:22,164 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 08:27:22,165 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 08:28:12,150 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 08:28:12,151 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 08:28:12,152 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 08:28:12,153 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 08:28:52,973 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 08:28:52,974 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 08:28:52,975 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 08:28:52,976 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 08:31:34,576 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 08:31:34,577 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 08:31:34,578 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 08:31:34,579 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 08:31:41,772 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 08:31:41,773 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 08:31:41,774 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 08:31:41,774 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 08:42:34,126 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 08:42:34,127 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 08:42:34,128 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 08:42:34,129 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 08:43:20,394 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 08:43:20,395 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 08:43:20,396 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 08:43:20,413 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 08:44:53,140 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 08:44:53,141 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 08:44:53,142 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 08:44:53,143 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 08:45:22,571 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 08:45:22,572 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 08:45:22,575 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 08:45:22,576 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 08:45:43,790 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 08:45:43,790 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 08:45:43,791 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 08:45:43,792 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 08:46:47,733 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 08:46:47,734 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 08:46:47,735 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 08:46:47,735 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 08:49:56,873 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 08:49:56,874 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 08:49:56,875 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 08:49:56,875 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 08:50:27,875 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 08:50:27,876 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 08:50:27,877 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 08:50:27,878 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 08:52:46,755 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 08:52:46,755 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 08:52:46,756 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 08:52:46,757 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 08:53:45,083 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 08:53:45,083 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 08:53:45,084 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 08:53:45,084 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 08:54:05,582 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 08:54:05,583 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 08:54:05,584 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 08:54:05,585 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 08:54:40,667 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 08:54:40,668 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 08:54:40,669 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 08:54:40,670 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 08:54:47,927 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 08:54:47,927 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 08:54:47,928 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 08:54:47,929 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 08:56:34,169 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 08:56:34,170 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 08:56:34,171 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 08:56:34,172 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 08:56:40,343 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 08:56:40,344 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 08:56:40,345 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 08:56:40,346 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 08:57:36,735 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 08:57:36,736 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 08:57:36,737 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 08:57:36,738 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 08:57:42,682 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 08:57:42,682 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 08:57:42,683 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 08:57:42,683 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 08:59:11,594 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 08:59:11,595 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 08:59:11,596 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 08:59:11,598 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 08:59:51,161 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 08:59:51,162 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 08:59:51,162 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 08:59:51,163 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 09:00:02,536 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 09:00:02,537 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 09:00:02,537 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 09:00:02,538 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 09:01:20,519 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 09:01:20,519 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 09:01:20,520 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 09:01:20,520 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 09:02:45,120 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 09:02:45,120 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 09:02:45,121 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 09:02:45,122 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 09:06:07,837 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 09:06:07,838 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 09:06:07,840 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 09:06:07,840 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 09:06:09,903 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 09:06:09,904 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 09:06:09,905 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 09:06:09,905 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 09:06:34,032 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 09:06:34,034 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 09:06:34,036 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 09:06:34,036 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 09:06:46,643 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 09:06:46,644 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 09:06:46,645 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 09:06:46,646 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 09:07:13,796 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 09:07:13,797 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 09:07:13,798 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 09:07:13,798 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 09:10:42,357 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 09:10:42,358 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 09:10:42,359 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 09:10:42,360 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 09:26:45,252 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 09:26:45,252 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 09:26:45,253 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 09:26:45,254 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 09:27:16,017 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 09:27:16,018 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 09:27:16,019 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 09:27:16,020 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 09:27:42,444 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 09:27:42,445 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 09:27:42,446 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 09:27:42,446 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 09:28:02,636 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 09:28:02,637 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 09:28:02,638 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 09:28:02,638 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 09:28:46,302 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 09:28:46,303 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 09:28:46,303 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 09:28:46,304 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 09:29:43,634 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 09:29:43,635 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 09:29:43,636 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 09:29:43,636 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 09:30:34,252 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 09:30:34,252 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 09:30:34,253 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 09:30:34,254 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 09:30:47,293 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 09:30:47,294 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 09:30:47,295 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 09:30:47,295 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 09:33:13,386 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 09:33:13,388 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 09:33:13,389 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 09:33:13,389 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 09:34:00,731 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 09:34:00,732 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 09:34:00,733 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 09:34:00,733 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 09:37:40,552 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 09:37:40,553 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 09:37:40,553 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 09:37:40,554 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 09:37:47,413 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 09:37:47,413 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 09:37:47,414 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 09:37:47,415 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 10:06:06,345 [Worker-71] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: rest-web:rest-web:0.0.1-SNAPSHOT @ D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\pom.xml.
+2016-02-21 10:06:07,643 [Worker-71] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/5.1.38/mysql-connector-java-5.1.38.pom
+2016-02-21 10:06:07,817 [Worker-71] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/5.1.38/mysql-connector-java-5.1.38.pom
+2016-02-21 10:06:08,054 [Worker-71] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/5.1.38/mysql-connector-java-5.1.38.jar
+2016-02-21 10:06:09,457 [Worker-71] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/5.1.38/mysql-connector-java-5.1.38.jar
+2016-02-21 10:06:11,822 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 10:06:11,823 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 10:06:11,825 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 10:06:11,826 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 10:06:11,827 [Worker-71] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of rest-web
+2016-02-21 10:06:11,828 [Worker-71] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for rest-web
+2016-02-21 10:06:11,833 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-clean-plugin:jar:2.5 is missing, no dependency information available
+2016-02-21 10:06:11,842 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 10:06:13,267 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 10:06:13,268 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 10:06:13,269 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 10:06:13,270 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 10:07:11,801 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 10:07:11,802 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 10:07:11,804 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 10:07:11,805 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 10:08:14,377 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 10:08:14,378 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 10:08:14,379 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 10:08:14,380 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 10:11:21,460 [Worker-70] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 10:11:21,460 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 10:11:21,461 [Worker-70] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 10:11:21,462 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 10:11:30,690 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 10:11:30,691 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 10:11:30,692 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 10:11:30,693 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 10:11:53,257 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 10:11:53,258 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 10:11:53,259 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 10:11:53,259 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 10:12:23,884 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 10:12:23,885 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 10:12:23,886 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 10:12:23,887 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 10:12:31,609 [Worker-70] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 10:12:31,610 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 10:12:31,610 [Worker-70] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 10:12:31,611 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 10:13:56,954 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 10:13:56,955 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 10:13:56,956 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 10:13:56,957 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 10:16:22,459 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 10:16:22,460 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 10:16:22,462 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 10:16:22,464 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 10:17:41,959 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 10:17:41,960 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 10:17:41,961 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 10:17:41,962 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 10:18:28,489 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 10:18:28,490 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 10:18:28,491 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 10:18:28,491 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 10:18:34,478 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 10:18:34,479 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 10:18:34,480 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 10:18:34,480 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 10:19:16,115 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 10:19:16,116 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 10:19:16,117 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 10:19:16,118 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 10:19:32,824 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 10:19:32,824 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 10:19:32,826 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 10:19:32,827 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 10:29:28,245 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 10:29:28,246 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 10:29:28,247 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 10:29:28,247 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 10:30:11,360 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 10:30:11,362 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 10:30:11,364 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 10:30:11,365 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 10:30:40,943 [Worker-81] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 10:30:40,944 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 10:30:40,944 [Worker-81] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 10:30:40,945 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 10:31:40,809 [Worker-80] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 10:31:40,809 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 10:31:40,811 [Worker-80] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 10:31:40,811 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 10:34:41,299 [Worker-80] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 10:34:41,300 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 10:34:41,301 [Worker-80] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 10:34:41,301 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 10:36:42,547 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 10:36:42,548 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 10:36:42,549 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 10:36:42,550 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 10:36:58,300 [Worker-80] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 10:36:58,301 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 10:36:58,302 [Worker-80] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 10:36:58,302 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 10:37:01,862 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 10:37:01,863 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 10:37:01,864 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 10:37:01,864 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 10:37:19,286 [Worker-79] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 10:37:19,286 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 10:37:19,288 [Worker-79] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 10:37:19,288 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 10:37:51,575 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 10:37:51,575 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 10:37:51,576 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 10:37:51,576 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 10:39:54,395 [Worker-82] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: rest-web:rest-web:0.0.1-SNAPSHOT @ D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\pom.xml.
+2016-02-21 10:39:55,812 [Worker-82] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.10/commons-codec-1.10.pom
+2016-02-21 10:39:55,970 [Worker-82] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.10/commons-codec-1.10.pom
+2016-02-21 10:39:56,140 [Worker-82] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/35/commons-parent-35.pom
+2016-02-21 10:39:56,478 [Worker-82] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/35/commons-parent-35.pom
+2016-02-21 10:39:56,654 [Worker-82] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/apache/15/apache-15.pom
+2016-02-21 10:39:56,819 [Worker-82] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/apache/15/apache-15.pom
+2016-02-21 10:39:57,170 [Worker-82] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.10/commons-codec-1.10.jar
+2016-02-21 10:39:57,839 [Worker-82] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.10/commons-codec-1.10.jar
+2016-02-21 10:39:59,943 [Worker-82] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 10:39:59,944 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 10:39:59,945 [Worker-82] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 10:39:59,946 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 10:39:59,947 [Worker-82] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of rest-web
+2016-02-21 10:39:59,947 [Worker-82] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for rest-web
+2016-02-21 10:39:59,951 [Worker-82] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 10:40:01,397 [Worker-83] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 10:40:01,398 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 10:40:01,399 [Worker-83] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 10:40:01,400 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 10:40:07,651 [Worker-83] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 10:40:07,652 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 10:40:07,652 [Worker-83] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 10:40:07,653 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 10:41:08,321 [Worker-82] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 10:41:08,322 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 10:41:08,323 [Worker-82] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 10:41:08,323 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 10:41:17,130 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 10:41:17,131 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 10:41:17,131 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 10:41:17,132 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 10:41:40,003 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 10:41:40,004 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 10:41:40,013 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 10:41:40,014 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 10:42:22,340 [Worker-79] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 10:42:22,340 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 10:42:22,342 [Worker-79] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 10:42:22,343 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 10:42:26,509 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 10:42:26,510 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 10:42:26,511 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 10:42:26,511 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 10:42:34,072 [Worker-83] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 10:42:34,072 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 10:42:34,073 [Worker-83] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 10:42:34,073 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 10:42:51,126 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 10:42:51,126 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 10:42:51,127 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 10:42:51,128 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 10:43:13,676 [Worker-79] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 10:43:13,677 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 10:43:13,677 [Worker-79] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 10:43:13,678 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 10:43:54,952 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 10:43:54,954 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 10:43:54,956 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 10:43:54,957 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 10:44:06,623 [Worker-79] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 10:44:06,623 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 10:44:06,624 [Worker-79] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 10:44:06,625 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 10:44:08,684 [Worker-80] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 10:44:08,685 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 10:44:08,685 [Worker-80] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 10:44:08,686 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 10:44:23,441 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 10:44:23,441 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 10:44:23,442 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 10:44:23,442 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 19:29:28,814 [Worker-143] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 19:29:28,833 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 19:29:28,835 [Worker-143] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 19:29:28,836 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 19:29:40,712 [Worker-132] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 19:29:40,713 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 19:29:40,714 [Worker-132] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 19:29:40,715 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 19:30:14,730 [Worker-147] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 19:30:14,731 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 19:30:14,733 [Worker-147] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 19:30:14,734 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 19:31:40,852 [Worker-132] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 19:31:40,853 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 19:31:40,854 [Worker-132] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 19:31:40,855 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 19:32:25,562 [Worker-144] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 19:32:25,563 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 19:32:25,564 [Worker-144] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 19:32:25,564 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 19:32:33,520 [Worker-132] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 19:32:33,520 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 19:32:33,521 [Worker-132] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 19:32:33,522 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 20:17:14,103 [Worker-164] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 20:17:14,128 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 20:17:14,130 [Worker-164] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 20:17:14,131 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 20:17:19,640 [Worker-158] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 20:17:19,642 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 20:17:19,643 [Worker-158] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 20:17:19,644 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 20:17:26,301 [Worker-164] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 20:17:26,303 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 20:17:26,305 [Worker-164] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 20:17:26,306 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 20:17:28,401 [Worker-161] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 20:17:28,401 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 20:17:28,403 [Worker-161] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 20:17:28,404 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 20:17:32,325 [Worker-158] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 20:17:32,326 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 20:17:32,326 [Worker-158] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 20:17:32,327 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 20:17:36,737 [Worker-164] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 20:17:36,737 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 20:17:36,738 [Worker-164] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 20:17:36,738 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-02-21 20:17:38,784 [Worker-163] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 20:17:38,785 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-02-21 20:17:38,785 [Worker-163] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-21 20:17:38,786 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-03-21 19:03:51,161 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-03-21 19:03:51,752 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-03-21 19:03:51,754 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-03-21 19:03:51,755 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-03-22 20:57:01,170 [Worker-74] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for rest-web
+2016-03-22 20:57:01,567 [Worker-70] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-03-22 20:57:01,568 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-03-22 20:57:01,570 [Worker-70] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-03-22 20:57:01,571 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-03-22 20:57:01,571 [Worker-70] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of rest-web
+2016-03-22 20:57:01,616 [Worker-70] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for rest-web
+2016-03-22 20:57:02,432 [Worker-70] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-03-23 18:54:11,914 [Worker-132] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-03-23 18:54:11,952 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-03-23 18:54:11,954 [Worker-132] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-03-23 18:54:11,954 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-03-23 18:54:22,338 [Worker-130] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-03-23 18:54:22,339 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-03-23 18:54:22,341 [Worker-130] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-03-23 18:54:22,342 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-03-23 18:54:50,662 [Worker-130] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-03-23 18:54:50,663 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-03-23 18:54:50,665 [Worker-130] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-03-23 18:54:50,666 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-03-23 19:04:56,748 [Worker-141] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-03-23 19:04:56,749 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-03-23 19:04:56,750 [Worker-141] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-03-23 19:04:56,751 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-03-23 19:42:58,507 [Worker-138] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-03-23 19:42:58,509 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-03-23 19:42:58,566 [Worker-138] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-03-23 19:42:58,600 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-03-23 19:56:00,700 [Worker-140] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-03-23 19:56:00,701 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-03-23 19:56:00,702 [Worker-140] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-03-23 19:56:00,702 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-03-23 19:56:08,915 [Worker-155] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-03-23 19:56:08,916 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-03-23 19:56:08,917 [Worker-155] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-03-23 19:56:08,917 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-03-23 20:10:18,640 [Worker-152] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-03-23 20:10:18,641 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-03-23 20:10:18,759 [Worker-152] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-03-23 20:10:18,760 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-03-23 20:10:51,268 [Worker-163] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-03-23 20:10:51,269 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-03-23 20:10:51,271 [Worker-163] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-03-23 20:10:51,272 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-03-23 20:10:52,809 [Worker-157] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-03-23 20:10:52,810 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-03-23 20:10:52,812 [Worker-157] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-03-23 20:10:52,812 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-03-23 20:12:32,439 [Worker-164] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-03-23 20:12:32,440 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-03-23 20:12:32,459 [Worker-164] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-03-23 20:12:32,460 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-03-23 20:27:14,630 [Worker-157] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-03-23 20:27:14,649 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-03-23 20:27:14,651 [Worker-157] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-03-23 20:27:14,652 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-03-23 20:28:43,796 [Worker-157] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-03-23 20:28:43,798 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-03-23 20:28:43,800 [Worker-157] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-03-23 20:28:43,801 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-03-23 21:02:02,434 [Worker-181] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-03-23 21:02:02,436 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-03-23 21:02:02,466 [Worker-181] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-03-23 21:02:02,467 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-03-23 21:02:09,420 [Worker-178] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-03-23 21:02:09,420 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-03-23 21:02:09,432 [Worker-178] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-03-23 21:02:09,433 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-03-23 21:02:40,346 [Worker-177] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-03-23 21:02:40,347 [Worker-177] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-03-23 21:02:40,350 [Worker-177] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-03-23 21:02:40,351 [Worker-177] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-03-23 21:04:05,270 [Worker-182] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-03-23 21:04:05,270 [Worker-182] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-03-23 21:04:05,271 [Worker-182] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-03-23 21:04:05,272 [Worker-182] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-03-23 21:04:10,907 [Worker-147] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-03-23 21:04:10,908 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-03-23 21:04:10,909 [Worker-147] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-03-23 21:04:10,909 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources
+2016-03-23 21:04:37,552 [Worker-183] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-03-23 21:04:37,552 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\main\resources
+2016-03-23 21:04:37,553 [Worker-183] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-03-23 21:04:37,554 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Devmedia\Cursos\Curso de Android Studio\Workspace\Projetos\rest-web\src\test\resources

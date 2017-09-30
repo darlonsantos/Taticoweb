@@ -1,0 +1,26 @@
+package br.edu.devmedia.rest;
+
+import javax.ws.rs.GET;
+import javax.ws.rs.POST;
+import javax.ws.rs.Path;
+
+@Path("/alo")
+public class AloMundoService {
+
+	@GET
+	public String aloMundoGet() {
+		return "Alô Mundo GET!";
+	}
+	
+	@POST
+	public String aloMundoPost() {
+		return "Alô Mundo POST!";
+	}
+	
+	@GET
+	@Path("/alo2")
+	public String aloMundoGet2() {
+		return "Alô Mundo GET 2";
+	}
+
+}

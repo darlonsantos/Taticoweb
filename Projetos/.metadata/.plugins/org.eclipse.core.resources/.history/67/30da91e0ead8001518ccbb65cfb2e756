@@ -1,0 +1,8 @@
+package br.edu.devmedia.rest;
+
+import javax.ws.rs.Path;
+
+@Path("/user")
+public class UsuarioService {
+
+}

@@ -1,0 +1,5 @@
+package br.edu.devmedia.entity;
+
+public class Pessoa {
+
+}

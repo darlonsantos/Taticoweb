@@ -1,0 +1,18 @@
+package br.edu.devmedia.dao;
+
+import java.sql.Connection;
+import java.sql.SQLException;
+
+import br.edu.devmedia.config.DatabaseConfig;
+
+public class PessoaDAO {
+	
+	public boolean isLoggedIn(String usuario, String senha) throws SQLException {
+		Connection conexao = DatabaseConfig.getInstance().getConnection();
+		
+		String sql = "SELECT * FROM TB_USUARIO WHERE USUARIO = " + usuario + " AND SENHA = " + senha;
+		
+		return true;
+	}
+
+}

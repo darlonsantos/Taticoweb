@@ -1,0 +1,14 @@
+package br.edu.devmedia.config;
+
+public class DatabaseConfig {
+	
+	private static DatabaseConfig config;
+	
+	public static DatabaseConfig getInstance() {
+		if (config == null) {
+			config = new DatabaseConfig();
+		}
+		return config;
+	}
+
+}

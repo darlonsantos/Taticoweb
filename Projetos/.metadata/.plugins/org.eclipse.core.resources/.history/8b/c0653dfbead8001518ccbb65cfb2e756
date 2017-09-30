@@ -1,0 +1,33 @@
+package br.edu.devmedia.rest;
+
+import java.sql.SQLException;
+
+import javax.annotation.PostConstruct;
+import javax.ws.rs.Path;
+import javax.ws.rs.Produces;
+import javax.ws.rs.core.MediaType;
+
+import br.edu.devmedia.dao.UsuarioDAO;
+
+@Path("/user")
+public class UsuarioService {
+
+	private UsuarioDAO usuarioDAO;
+
+	@PostConstruct
+	private void init() {
+		usuarioDAO = new UsuarioDAO();
+	}
+
+	@Path("/login")
+	@Produces(MediaType.TEXT_PLAIN)
+	public boolean isLoggedIn(String usuario, String senha) {
+		try {
+			return usuarioDAO.isLoggedIn(usuario, senha);
+		} catch (SQLException e) {
+			e.printStackTrace();
+			return false;
+		}
+	}
+
+}
