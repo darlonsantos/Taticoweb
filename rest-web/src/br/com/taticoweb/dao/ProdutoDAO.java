@@ -63,7 +63,29 @@ public class ProdutoDAO {
 	}
 
 
-	public Produto buscarProdutoPorSku(String sku)
+    public List<Produto> listarPromMes() throws Exception {
+        List<Produto> listaPrommes = new ArrayList<>();
+        Connection conexao = DatabaseConfig.getInstance().getConnection();
+        String sql = "select * from tb_produto where promocao = 'N' ";
+        PreparedStatement statement = conexao.prepareStatement(sql);
+        ResultSet rs = statement.executeQuery();
+        while (rs.next()) {
+            Produto produto = new Produto();
+            produto.setId(rs.getInt("id_produto"));
+            produto.setTitulo(rs.getString("titulo"));
+            produto.setDescricao(rs.getString("descricao"));
+            produto.setValor(rs.getBigDecimal("valor"));
+            produto.setUrlImg(rs.getString("url"));
+            produto.setSku(rs.getString("sku"));
+            produto.setPromdia(rs.getString("promdia"));
+            produto.setPromMes(rs.getString("promMes"));
+            listaPrommes.add(produto);
+        }
+        return listaPrommes;
+    }
+
+
+    public Produto buscarProdutoPorSku(String sku)
 		throws Exception {
 
 		Produto produto = null;

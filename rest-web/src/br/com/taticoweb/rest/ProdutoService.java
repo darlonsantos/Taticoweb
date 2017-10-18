@@ -31,13 +31,23 @@ public class ProdutoService {
 			return null;
 		}
 	}
-
 	@GET
 	@Path("/listaPromcaodia")
 	@Produces(MediaType.APPLICATION_JSON + ";charset=utf-8")
 	public List<Produto> listPromcaoDia() {
 		try {
 			return produtoDAO.listarPromDia();
+		} catch (Exception e) {
+			e.printStackTrace();
+			return null;
+		}
+	}
+	@GET
+	@Path("/listaPromcaomes")
+	@Produces(MediaType.APPLICATION_JSON + ";charset=utf-8")
+	public List<Produto> listPromcaomes() {
+		try {
+			return produtoDAO.listarPromMes();
 		} catch (Exception e) {
 			e.printStackTrace();
 			return null;
