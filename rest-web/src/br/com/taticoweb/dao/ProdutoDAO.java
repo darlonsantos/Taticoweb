@@ -1,16 +1,16 @@
 package br.com.taticoweb.dao;
 
+import br.com.taticoweb.config.DatabaseConfig;
+import br.com.taticoweb.entity.Pagamento;
+import br.com.taticoweb.entity.Produto;
+import br.com.taticoweb.entity.Venda;
+
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.Statement;
 import java.util.ArrayList;
 import java.util.List;
-
-import br.com.taticoweb.config.DatabaseConfig;
-import br.com.taticoweb.entity.Pagamento;
-import br.com.taticoweb.entity.Produto;
-import br.com.taticoweb.entity.Venda;
 
 public class ProdutoDAO {
 
@@ -32,15 +32,41 @@ public class ProdutoDAO {
 			produto.setValor(rs.getBigDecimal("valor"));
 			produto.setUrlImg(rs.getString("url"));
 			produto.setSku(rs.getString("sku"));
+			produto.setPromdia(rs.getString("promdia"));
+			produto.setPromMes(rs.getString("promMes"));
 			lista.add(produto);
 		}
 
 		return lista;
 	}
 
-	public Produto buscarProdutoPorSku(String sku) throws Exception {
-		Produto produto = null;
 
+	public List<Produto> listarPromDia() throws Exception {
+		List<Produto> listaPromdias = new ArrayList<>();
+		Connection conexao = DatabaseConfig.getInstance().getConnection();
+		String sql = "select * from tb_produto where promocao = 'N' ";
+		PreparedStatement statement = conexao.prepareStatement(sql);
+		ResultSet rs = statement.executeQuery();
+	while (rs.next()) {
+			Produto produto = new Produto();
+			produto.setId(rs.getInt("id_produto"));
+			produto.setTitulo(rs.getString("titulo"));
+			produto.setDescricao(rs.getString("descricao"));
+			produto.setValor(rs.getBigDecimal("valor"));
+			produto.setUrlImg(rs.getString("url"));
+			produto.setSku(rs.getString("sku"));
+            produto.setPromdia(rs.getString("promdia"));
+            produto.setPromMes(rs.getString("promMes"));
+			listaPromdias.add(produto);
+		}
+		return listaPromdias;
+	}
+
+
+	public Produto buscarProdutoPorSku(String sku)
+		throws Exception {
+
+		Produto produto = null;
 		Connection conexao = DatabaseConfig.getInstance().getConnection();
 
 		String sql = "select * from tb_produto where sku = ?";
@@ -57,6 +83,8 @@ public class ProdutoDAO {
 			produto.setValor(rs.getBigDecimal("VALOR"));
 			produto.setUrlImg(rs.getString("URL"));
 			produto.setSku(rs.getString("SKU"));
+            produto.setPromdia(rs.getString("promdia"));
+            produto.setPromMes(rs.getString("promMes"));
 		}
 
 		return produto;
