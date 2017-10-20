@@ -5,9 +5,10 @@
 
     <item>
 
+
         <bitmap
             android:gravity="center"
-            android:src="@mipmap/logo_devmedia" />
+            android:src="@drawable/tatico" />
 
     </item>
 </layer-list>
