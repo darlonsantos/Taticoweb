@@ -44,7 +44,7 @@ public class ProdutoDAO {
 	public List<Produto> listarPromDia() throws Exception {
 		List<Produto> listaPromdias = new ArrayList<>();
 		Connection conexao = DatabaseConfig.getInstance().getConnection();
-		String sql = "select * from tb_produto where promocao = 'N' ";
+		String sql = "select * from tb_produto where prom_dia = 'S' ";
 		PreparedStatement statement = conexao.prepareStatement(sql);
 		ResultSet rs = statement.executeQuery();
 	while (rs.next()) {
@@ -55,8 +55,8 @@ public class ProdutoDAO {
 			produto.setValor(rs.getBigDecimal("valor"));
 			produto.setUrlImg(rs.getString("url"));
 			produto.setSku(rs.getString("sku"));
-            produto.setPromdia(rs.getString("promdia"));
-            produto.setPromMes(rs.getString("promMes"));
+            produto.setPromdia(rs.getString("prom_dia"));
+            produto.setPromMes(rs.getString("prom_mes"));
 			listaPromdias.add(produto);
 		}
 		return listaPromdias;
@@ -64,9 +64,9 @@ public class ProdutoDAO {
 
 
     public List<Produto> listarPromMes() throws Exception {
-        List<Produto> listaPrommes = new ArrayList<>();
+        List<Produto> listaPromMes = new ArrayList<>();
         Connection conexao = DatabaseConfig.getInstance().getConnection();
-        String sql = "select * from tb_produto where promocao = 'N' ";
+        String sql = "select * from tb_produto where prom_mes = 'S' ";
         PreparedStatement statement = conexao.prepareStatement(sql);
         ResultSet rs = statement.executeQuery();
         while (rs.next()) {
@@ -77,11 +77,11 @@ public class ProdutoDAO {
             produto.setValor(rs.getBigDecimal("valor"));
             produto.setUrlImg(rs.getString("url"));
             produto.setSku(rs.getString("sku"));
-            produto.setPromdia(rs.getString("promdia"));
-            produto.setPromMes(rs.getString("promMes"));
-            listaPrommes.add(produto);
+            produto.setPromdia(rs.getString("prom_dia"));
+            produto.setPromMes(rs.getString("prom_mes"));
+			listaPromMes.add(produto);
         }
-        return listaPrommes;
+        return listaPromMes;
     }
 
 
